@@ -1,0 +1,4 @@
+interface:
+  display_name: "Excel/CSV 格式诊断"
+  short_description: "定位 Excel 和 CSV 文件格式导致的读取与导入异常"
+  default_prompt: "Use $excel-csv-format-diagnostics to diagnose format-related read errors in this Excel or CSV file."
